@@ -27,7 +27,7 @@ My work focuses on building **modular**, **autonomous**, and **privacy-respectin
 
 > All of my projects are **fully open source** — I believe in free access to knowledge, community-driven innovation, and transparent technology.
 
-No paywalls. No black boxes. Just reproducible systems, well-documented and free to build upon.
+No paywalls. No black boxes. Just reproducible systems, well-documented and free to build upon (sometimes) .
 
 ---
 
