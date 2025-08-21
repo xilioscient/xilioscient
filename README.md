@@ -38,8 +38,6 @@ No paywalls. No black boxes. Just reproducible systems, well-documented and free
 - 🚧 **[Coming Soon]** Local web search and AI automation using SearxNG and n8n
 - 🚧 **[Coming Soon]** Offensive toolkit suite built with Rust and Python, React-based UI
 - 🚧 **[Coming Soon]** Lightweight C++ pentest suite for low-level red team operations
-- 🚧 **[Coming Soon]** Personal website built with an open-source template, fully modular
-- 🚧 **[Coming Soon]** full course (c++) 
 
 
 > 📌 _Never stopped building. Always iterating._
